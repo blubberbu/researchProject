@@ -1,0 +1,19 @@
+Sample size: 113
+Max data
+
+Astar max time: 9.0103ms
+Astar max distance: 3540m
+Dijkstra max time: 3.1883ms
+Dijkstra max distance: 3540m
+BFS max time: 7.7995ms
+BFS max distance: 6 nodes
+
+-------------------------------------------------------------
+Mean data
+
+Astar mean time: 1.1214ms
+Astar mean distance: 2551.4286m
+Dijkstra mean time: 0.6486ms
+Dijkstra mean distance: 1950.0m
+BFS mean time: 0.8572ms
+BFS mean distance: 4 nodes
